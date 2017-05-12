@@ -44,7 +44,7 @@
  *		 and stored in global structures.
  */
 
-static char const rcsid[] = "$Id$";
+static char const rcsid[] = "$Id: compath.c,v 1.3 2001/07/05 14:31:00 broeker Exp $";
 
 #include "global.h"
 

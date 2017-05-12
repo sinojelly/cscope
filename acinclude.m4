@@ -1,4 +1,4 @@
-# $Id$
+# $Id: acinclude.m4,v 1.1 2009/04/10 13:39:22 broeker Exp $
 
 # Copyright (c) 2008 Holger Weiss <holger@jhweiss.de>.
 #

@@ -37,7 +37,7 @@
 #include "vp.h"
 #include "global.h"
 
-static char const rcsid[] = "$Id$";
+static char const rcsid[] = "$Id: vpfopen.c,v 1.4 2009/04/10 13:39:23 broeker Exp $";
 
 FILE *
 vpfopen(char *filename, char *type)

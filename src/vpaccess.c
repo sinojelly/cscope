@@ -30,7 +30,7 @@
  DAMAGE. 
  =========================================================================*/
 
-/* $Id$ */
+/* $Id: vpaccess.c,v 1.3 2009/04/10 13:39:23 broeker Exp $ */
 
 /* vpaccess - view path version of the access system call */
 

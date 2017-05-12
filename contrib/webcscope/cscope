@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-# $Id$
+# $Id: cscope,v 1.2 2007/01/07 12:34:01 broeker Exp $
 #
 # WebCscope: A web interface to the cscope application
 # Copyright (C) 2001, Ragho Mahalingam <ragho@mahalingam.com>
@@ -21,7 +21,7 @@
 #
 # Change History:
 # 
-# $Log$
+# $Log: cscope,v $
 # Revision 1.2  2007/01/07 12:34:01  broeker
 # Direct attention to security issues with webcscope.
 #
@@ -435,7 +435,7 @@ ENDOFTEXT2
 sub Feedback {
 
   $feedback  = "<font size=-1>";
-  $feedback .= '$Id$<br>';
+  $feedback .= '$Id: cscope,v 1.2 2007/01/07 12:34:01 broeker Exp $<br>';
   $feedback .= "$comment{name}<i>&lt;";
   $feedback .= "<a href=\"mailto:$comment{email}\">";
   $feedback .= "$comment{email}</a>&gt;</i></font>";

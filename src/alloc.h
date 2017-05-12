@@ -30,7 +30,7 @@
  DAMAGE. 
  =========================================================================*/
 
-/* $Id$ */
+/* $Id: alloc.h,v 1.1 2006/07/23 20:59:20 broeker Exp $ */
 
 #ifndef CSCOPE_ALLOC_H
 #define CSCOPE_ALLOC_H

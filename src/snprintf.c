@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: snprintf.c,v 1.1 2009/04/10 13:39:23 broeker Exp $ */
 
 /*
  * Copyright (c) 1995 Patrick Powell.
